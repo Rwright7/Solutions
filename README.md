@@ -5,5 +5,5 @@ Daniel Julius Bernstein is an American German mathematician, cryptologist, and c
 He is a visiting professor at CASA at Ruhr University Bochum, as well as a research professor of 
 Computer Science at the University of Illinois at Chicago. Taken from wikipedia, little excerpt of who Mr Bernstein.
 
-Questions were found by just looking around of what he did university etc and i liked them, found them fun as a beginner and decided to attempt them. 
+Questions were found by just looking around at what he did in university etc and i liked them, found them fun as a beginner and decided to attempt them. 
 They are loads there to attempt than those few, but in due time. 
